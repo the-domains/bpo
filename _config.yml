@@ -11,9 +11,9 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0
+  saturation: 1
   brandStrength: 0
-  lightness: 0.5489362
+  lightness: 1
   brandColors:
     - '#4E78A6'
     - '#B87C72'
@@ -22,5 +22,5 @@ color:
     - '#013E39'
   rhythmicContrast: 0.1829787
 typography_spectrum: 0.1851064
-layout_spectrum: 1
+layout_spectrum: 0
 name: BPO
