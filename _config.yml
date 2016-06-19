@@ -10,6 +10,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.2638298
 color:
   saturation: 1
   brandStrength: 0
@@ -21,6 +22,5 @@ color:
     - '#402B28'
     - '#013E39'
   rhythmicContrast: 0.1829787
-typography_spectrum: 0.1851064
 layout_spectrum: 0
 name: BPO
