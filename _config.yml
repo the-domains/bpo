@@ -1,0 +1,14 @@
+layout_spectrum: 0.18729869462549686
+typography_spectrum: 0.9245816108305007
+color:
+  brandStrength: 0.15329307317733765
+  lightness: 0.06937825330533087
+  saturation: 0.7193736357148737
+  rhythmicContrast: 0.08621651655994356
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: BPO
