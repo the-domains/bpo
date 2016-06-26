@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.2638298
 color:
-  saturation: 0.3122029753867537
-  brandStrength: 0.24720647116191685
-  lightness: 0.9992443649098277
+  saturation: 0
+  brandStrength: 0
+  lightness: 1
   brandColors:
-    - '#334D5C'
-    - '#45B29D'
-    - '#EFC94C'
-    - '#E27A3F'
-    - '#DF5A49'
-  rhythmicContrast: 0.14759709173813462
-typography_spectrum: 0.43828415824100375
-layout_spectrum: 0.33180333860218525
+    - '#4E78A6'
+    - '#B87C72'
+    - '#1D9EA4'
+    - '#402B28'
+    - '#013E39'
+  rhythmicContrast: 1
+layout_spectrum: 0
 name: BPO
